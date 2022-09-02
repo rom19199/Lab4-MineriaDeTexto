@@ -1,0 +1,6 @@
+pip
+tweet-preprocessor
+tweet-preprocessor
+tweet-preprocessor
+transformers==4.21.2
+gensim==4.2.0
